@@ -1,4 +1,14 @@
-# Hangman
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
+Project Description
+Welcome to the "Great Hangman Adventure"! It's your chance to guess what weird and whacky fruits the computer knows.
 
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+Installation
+Clone this repository in your terminal:
+-> git clone https://github.com/your-username/the-great-hangman-adventure.git
+
+Navigate to the project directory:
+-> cd the-great-hangman-adventure
+
+To start the game, run:
+python milestone_5.py
+
+Then, follow the on-screen instructions.
