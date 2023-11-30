@@ -48,6 +48,9 @@ class Hangman:
             print(f"Congratulations! You guessed the word: {self.word}")
 
 # Example usage
-if __name__ == "__main__":
+def main():
     game = Hangman(word_list)
     game.play_game()
+
+if __name__ == "__main__":
+    main()
